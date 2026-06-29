@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analysis Dashboard
+# 🛒 Retail Superstore Analysis Dashboard
 
 An end-to-end data analysis and visualisation project built on 100K+ rows of retail transactional data. This project demonstrates SQL-based data extraction, transformation, and the development of an interactive Power BI dashboard that enables business users to independently explore sales performance.
 
